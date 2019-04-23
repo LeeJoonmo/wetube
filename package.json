@@ -1,0 +1,11 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "wetube start",
+  "main": "index.js",
+  "author": "joonmo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
